@@ -1,5 +1,7 @@
 # sebastiaoagrinho
-
+# Início:
+Bem-vindo ao site Sebastião Agrinho - Cooperativismo Rural!
+Este espaço foi criado para você que deseja entender melhor o papel das cooperativas no campo e como essa prática pode transformar a vida dos produtores rurais. Aqui, você encontrará informações essenciais sobre o cooperativismo rural, seus princípios, benefícios e os diferentes tipos de cooperativas existentes no Brasil.
 # cooperativismo rural:
 é a união de produtores rurais em uma associação autônoma para fortalecer suas atividades, reduzir custos e aumentar o poder de negociação no mercado. 
 # Objetivo:
